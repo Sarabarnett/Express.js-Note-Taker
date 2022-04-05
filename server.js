@@ -6,7 +6,7 @@ const express = require('express');
 
 //setup express app and server
 const app = express();
-const PORT = process.env.PORT || 8008;
+const PORT = process.env.PORT || 3001;
 
 //middleware for all static files in public folder
 app.use(express.static('public'));
