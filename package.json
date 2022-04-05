@@ -1,0 +1,22 @@
+{
+  "name": "express.js-note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarabarnett/Express.js-Note-Taker.git"
+  },
+  "author": "Sara Barnett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarabarnett/Express.js-Note-Taker/issues"
+  },
+  "homepage": "https://github.com/Sarabarnett/Express.js-Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
