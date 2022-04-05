@@ -1,14 +1,1 @@
-[
-  {
-      "title":"Shopping",
-      "text":"Make a grocery list and go grocery shopping"
-  },
-  {
-    "title": "Call Vet",
-    "text": "Call to make an appointment for Melly"
-  },
-  {
-    "title": "Call grandma",
-    "text": "Call grandma to wish her a happpy birthday on april 9th"
-  }
-]
+[{"title":"Shopping","text":"Make a grocery list and go grocery shopping"},{"title":"Call Vet","text":"Call to make an appointment for Melly"},{"title":"Call grandma","text":"Call grandma to wish her a happpy birthday on april 9th"},{"title":"Make lunch","text":"I will make a sandwich for lunch at 1pm."}]
